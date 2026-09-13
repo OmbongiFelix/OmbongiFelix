@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋<br>I'm a Computer Science graduate and backend engineer <br>who builds systems where data pipelines, ML models, and <br>distributed infrastructure meet
+Hi 👋<br>I'm a Backend Engineer <br>who builds systems where data pipelines, ML models, and <br>distributed infrastructure meet.
 
 
 ## 🌐 Socials:
