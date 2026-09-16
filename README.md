@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋<br>I'm a Backend Engineer <br>who builds systems where data pipelines, ML models, and <br>distributed infrastructure meet.
-
+Hi 👋<br>I'm a Fullstack Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felix-ombongi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fombongi11@gmail.com) 
