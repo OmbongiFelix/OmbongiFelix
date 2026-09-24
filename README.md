@@ -8,7 +8,6 @@
 - 🎓 BSc Computer Science, Jomo Kenyatta University of Agriculture and Technology (JKUAT) — graduating Dec 2026
 - 📍 Based in Nairobi, Kenya
 - 🔭 Currently building:
-  - **Afridata** — dataset discovery platform live across 15 African countries (metadata inferencing + hybrid recommendation engine)
   - **Locus** — solo-founded B2B GIS platform resolving GPS coordinates into Kenyan administrative addresses
   - **State-Space** — distributed computing engine (async DRF backend + React/TypeScript frontend)
 - 🌱 Currently sharpening: React/React Native
