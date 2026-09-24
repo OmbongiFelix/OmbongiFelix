@@ -11,7 +11,7 @@
   - **Afridata** — dataset discovery platform live across 15 African countries (metadata inferencing + hybrid recommendation engine)
   - **Locus** — solo-founded B2B GIS platform resolving GPS coordinates into Kenyan administrative addresses
   - **State-Space** — distributed computing engine (async DRF backend + React/TypeScript frontend)
-- 🌱 Currently sharpening: React/React Native and working through the Full Stack Open certification (University of Helsinki)
+- 🌱 Currently sharpening: React/React Native
 - 💬 Ask me about Django REST Framework, Celery/Redis pipelines, or recommendation systems
 - 📫 Reach me at **fombongi11@gmail.com**
 
